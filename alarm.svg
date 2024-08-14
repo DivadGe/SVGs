@@ -78,7 +78,8 @@
         // Retrieve the binary variables from text elements
         var firstVar = parseInt(document.getElementById('firstVar').textContent);
         var secondVar = parseInt(document.getElementById('secondVar').textContent);
-        console.log(firstVar);
+        console.log('First Variable:', firstVar);
+        console.log('Second Variable:', secondVar);
         var indicator = document.getElementById('indicator');
         
         if (secondVar === 1) {
@@ -90,7 +91,7 @@
         }
       }
 
-      // Call the function to set the indicator light
-      setIndicatorLight();
+      // Ensure the script runs after the SVG has fully loaded
+      window.addEventListener('load', setIndicatorLight);
     ]]></script>
 </svg>
