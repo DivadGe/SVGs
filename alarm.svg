@@ -1,8 +1,8 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="100" r="50" fill="green" />
+  <text id="testText" x="10" y="20" fill="black">Original Text</text>
   <script type="text/ecmascript">
     <![CDATA[
-      alert('SVG scripting is enabled!');
+      document.getElementById('testText').textContent = 'Scripting Works!';
     ]]>
   </script>
 </svg>
