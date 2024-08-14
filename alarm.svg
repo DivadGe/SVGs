@@ -25,7 +25,7 @@
       }
 
       // Example usage
-      var firstBinaryVar = $n1$; // Set to 0 or 1
+      var firstBinaryVar = 1; // Set to 0 or 1
       var secondBinaryVar = $n2$; // Set to 0 or 1
 
       setIndicatorLight(firstBinaryVar, secondBinaryVar);
