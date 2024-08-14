@@ -76,9 +76,9 @@
      id="script7"><![CDATA[
       function setIndicatorLight() {
         // Retrieve the binary variables from text elements
-        var firstVar = parseInt(document.getElementById('firstVar').textContent.replace(/\$/g, ''));
-        var secondVar = parseInt(document.getElementById('secondVar').textContent.replace(/\$/g, ''));
-        
+        var firstVar = parseInt(document.getElementById('firstVar').textContent);
+        var secondVar = parseInt(document.getElementById('secondVar').textContent);
+        console.print(firstVar);
         var indicator = document.getElementById('indicator');
         
         if (secondVar === 1) {
