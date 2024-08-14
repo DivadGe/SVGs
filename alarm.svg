@@ -65,13 +65,11 @@
   <text
      id="firstVar"
      x="10"
-     y="20"
-     visibility="hidden">$firstBinaryVar$</text>
+     y="20">$firstBinaryVar$</text>
   <text
      id="secondVar"
      x="10"
-     y="40"
-     visibility="hidden">$secondBinaryVar$</text>
+     y="40">$secondBinaryVar$</text>
   <!-- Scripts to control the light based on the binary variables -->
   <script
      type="text/ecmascript"
