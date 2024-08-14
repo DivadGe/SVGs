@@ -8,13 +8,21 @@
 
   <!-- The indicator circle -->
   <circle id="indicator" cx="100" cy="100" r="50" class="green" />
+
+  <!-- Variables stored in text elements with dollar signs -->
+  <text id="firstVar" x="10" y="20" visibility="hidden">$firstBinaryVar$</text>
+  <text id="secondVar" x="10" y="40" visibility="hidden">$secondBinaryVar$</text>
   
   <!-- Scripts to control the light based on the binary variables -->
   <script type="text/ecmascript">
     <![CDATA[
-      // Function to set the indicator light based on binary variables
-      function setIndicatorLight(firstVar, secondVar) {
+      function setIndicatorLight() {
+        // Retrieve the binary variables from text elements
+        var firstVar = parseInt(document.getElementById('firstVar').textContent.replace(/\$/g, ''));
+        var secondVar = parseInt(document.getElementById('secondVar').textContent.replace(/\$/g, ''));
+        
         var indicator = document.getElementById('indicator');
+        
         if (secondVar === 1) {
           indicator.setAttribute('class', 'red');
         } else if (firstVar === 1) {
@@ -24,11 +32,8 @@
         }
       }
 
-      // Example usage
-      var firstBinaryVar = 1; // Set to 0 or 1
-      var secondBinaryVar = 1; // Set to 0 or 1
-
-      setIndicatorLight(firstBinaryVar, secondBinaryVar);
+      // Call the function to set the indicator light
+      setIndicatorLight();
     ]]>
   </script>
 </svg>
