@@ -78,7 +78,7 @@
         // Retrieve the binary variables from text elements
         var firstVar = parseInt(document.getElementById('firstVar').textContent);
         var secondVar = parseInt(document.getElementById('secondVar').textContent);
-        console.print(firstVar);
+        console.log(firstVar);
         var indicator = document.getElementById('indicator');
         
         if (secondVar === 1) {
