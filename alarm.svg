@@ -9,7 +9,7 @@
 
   <circle id="greenCircle" cx="100" cy="100" r="50" fill="green" />
   <circle id="yellowCircle" cx="100" cy="100" r="50" fill="yellow" fill-opacity="$firstBinaryVar$" />
-  <circle id="redCircle" cx="100" cy="100" r="50" fill="red" fill-opacity="$secondBinaryVar$" />
+  <circle id="redCircle" cx="100" cy="100" r="50" fill="red" fill-opacity="0" />
 
   <!-- Text elements with variables -->
   <text id="firstVar" x="10" y="20">$firstBinaryVar$</text>
