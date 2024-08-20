@@ -12,6 +12,6 @@
   <circle id="redCircle" cx="100" cy="100" r="50" fill="red" fill-opacity="$Alarm$" />
 
   <!-- Text elements with variables -->
-  <text id="firstVar" x="10" y="20" display="False">$Warning$</text>
-  <text id="secondVar" x="10" y="40" display="False">$Alarm$</text>
+  <text id="firstVar" x="10" y="20" visibility="hidden">$Warning$</text>
+  <text id="secondVar" x="10" y="40" visibility="hidden">$Alarm$</text>
 </svg>
