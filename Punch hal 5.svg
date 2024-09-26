@@ -70,11 +70,11 @@
 		</g>
 		<g transform="translate(362.02 -1093)" v:groupContext="shape" v:mID="1048">
 			<title>LV busbar feeder.390</title>
-			<desc>Inkoop & Hal E</desc>
+			<desc>Inkoop &amp; Hal E</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect width="66.17" height="15.5694" cx="33.085" cy="1182.77"/>
 			<rect class="st9" y="1175" width="66.17" height="15.569" fill="none"/>
-			<text class="st10" x="6.4000001" y="1185.17" fill="#000000" font-family="Arial" font-size="8px" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Inkoop & Hal E</text>
+			<text class="st10" x="6.4000001" y="1185.17" fill="#000000" font-family="Arial" font-size="8px" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Inkoop &amp; Hal E</text>
 		</g>
 		<g transform="translate(403.54 -1025.6)" v:groupContext="shape" v:mID="1049">
 			<title>LV busbar feeder.1049</title>
