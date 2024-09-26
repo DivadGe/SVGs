@@ -1,1 +1,308 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="873.6" height="307.2" color-interpolation-filters="sRGB" fill="none" fill-rule="evenodd" font-size="12" stroke-linecap="square" stroke-miterlimit="3" viewBox="0 0 655.2 230.4" overflow="visible" xmlns:v="https://vecta.io/nano"><style><![CDATA[.O{fill-opacity:0}.P{fill:#000}.Q{font-family:Arial}.R{font-size:0.666664em}.S{stroke:#c00000}.T{fill:#fff}.U{stroke-linejoin:round}.V{stroke-width:2.16}.W{stroke:red}.X{stroke-linecap:round}]]></style><defs><path d="m2 1-2-1 2-1v2" id="A"/><marker id="B" fill="#c00000" overflow="visible" orient="auto" refX="-4.3333335" fill-opacity="1" class="S"><use transform="scale(-2.1667)" href="#A" stroke-opacity="1" stroke-width=".462"/></marker><path id="C" d="M64.153-22.2h651.97v70.866H64.153z"/></defs><g transform="translate(-61.903 25.481)"><g class="U"><use href="#C" stroke="#09366f" stroke-width=".5" class="T"/><use href="#C" stroke="#ca0e2f" stroke-width="1.5"/></g><text x="279" y="1149.72" fill="#09366f" font-family="Arial Black" font-size="1.5em" transform="translate(64.153 -1141.9)">Stellantis<tspan x="300.48" dy="1.2em" font-size="1em">Hal 5</tspan></text><g class="U V"><g class="S"><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(-1 0 0 1 400.84 -1030.8)" class="O T"/><path d="M395.57 102l-.36 46.42" class="X"/></g><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(1 0 0 -1 389.43 1347)" class="O T W"/></g><text x="368.42" y="92.17" class="P Q R">Inkoop &amp; Hal E</text><text x="410.73" y="159.57" class="P Q R">T20</text><text x="433.23" y="159.57" class="P Q R">$T20$</text><g class="V"><path d="m0 1187h1.27" marker-end="url(#B)" stroke-linecap="butt" transform="rotate(90 742.94 839.64)" class="S"/><g class="T U O"><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(1 0 0 -1 389.2 1346.9)" class="W"/><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(-1 0 0 1 308.72 -1031)" class="S"/></g></g><text x="318.61" y="159.37" class="P Q R">T19</text><text x="339.61" y="159.37" class="P Q R">$T19$</text><g class="T U V O"><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(1 0 0 -1 297.07 1346.7)" class="W"/><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(-1 0 0 1 209.5 -1031)" class="S"/></g><text x="219.39" y="159.37" class="P Q R">T18</text><g class="T U V O"><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(1 0 0 -1 197.86 1346.7)" class="W"/><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(-1 0 0 1 492.26 -1031)" class="S"/></g><text x="502.15" y="159.37" class="P Q R">T21</text><text x="524.65" y="159.37" class="P Q R">$T21$</text><g class="T U V O"><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(1 0 0 -1 480.61 1346.7)" class="W"/><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(-1 0 0 1 585.09 -1031)" class="S"/></g><text x="594.99" y="159.37" class="P Q R">T22</text><text x="618.99" y="159.37" class="P Q R">$T22$</text><g class="U V"><circle cx="5.669" cy="1184.9" r="5.669" transform="matrix(1 0 0 -1 573.45 1346.7)" class="O T W"/><g class="S X"><path d="M395.58 105.5v21.87h91.01v20.97m-91.01-21.04h-92.53v20.98m276.37.02v-20.98H466.44"/><path d="M395.58 127.3H204.14v20.99"/></g></g><text x="240.39" y="159.37" class="P Q R">$T18$</text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="873.6"
+   height="307.2"
+   color-interpolation-filters="sRGB"
+   fill="none"
+   fill-rule="evenodd"
+   font-size="12"
+   stroke-linecap="square"
+   stroke-miterlimit="3"
+   viewBox="0 0 655.2 230.4"
+   overflow="visible"
+   version="1.1"
+   id="svg93"
+   sodipodi:docname="result.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata97">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview95"
+     showgrid="false"
+     inkscape:zoom="1.6346154"
+     inkscape:cx="400.72048"
+     inkscape:cy="122.27581"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g91" />
+  <style
+     id="style2"><![CDATA[.O{fill-opacity:0}.P{fill:#000}.Q{font-family:Arial}.R{font-size:0.666664em}.S{stroke:#c00000}.T{fill:#fff}.U{stroke-linejoin:round}.V{stroke-width:2.16}.W{stroke:red}.X{stroke-linecap:round}]]></style>
+  <defs
+     id="defs9">
+    <path
+       d="m2 1-2-1 2-1v2"
+       id="A" />
+    <marker
+       id="B"
+       fill="#c00000"
+       overflow="visible"
+       orient="auto"
+       refX="-4.3333335"
+       fill-opacity="1"
+       class="S">
+      <use
+         transform="scale(-2.1667)"
+         href="#A"
+         stroke-opacity="1"
+         stroke-width=".462"
+         id="use5" />
+    </marker>
+    <path
+       id="C"
+       d="M64.153-22.2h651.97v70.866H64.153z" />
+  </defs>
+  <g
+     transform="translate(-61.903 25.481)"
+     id="g91">
+    <g
+       class="U"
+       id="g15">
+      <use
+         href="#C"
+         stroke="#09366f"
+         stroke-width=".5"
+         class="T"
+         id="use11" />
+      <use
+         href="#C"
+         stroke="#ca0e2f"
+         stroke-width="1.5"
+         id="use13" />
+    </g>
+    <text
+       x="279"
+       y="1149.72"
+       fill="#09366f"
+       font-family="Arial Black"
+       font-size="1.5em"
+       transform="translate(64.153 -1141.9)"
+       id="text19">Stellantis<tspan
+   x="300.48"
+   dy="1.2em"
+   font-size="1em"
+   id="tspan17">Hal 5</tspan>
+</text>
+    <g
+       class="U V"
+       id="g29">
+      <g
+         class="S"
+         id="g25">
+        <circle
+           cx="5.669"
+           cy="1184.9"
+           r="5.669"
+           transform="matrix(-1 0 0 1 400.84 -1030.8)"
+           class="O T"
+           id="circle21" />
+        <path
+           d="M395.57 102l-.36 46.42"
+           class="X"
+           id="path23" />
+      </g>
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(1 0 0 -1 389.43 1347)"
+         class="O T W"
+         id="circle27" />
+    </g>
+    <text
+       x="368.42"
+       y="92.17"
+       class="P Q R"
+       id="text31">Inkoop &amp; Hal E</text>
+    <text
+       x="410.73"
+       y="159.57"
+       class="P Q R"
+       id="text33"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">T20</text>
+    <text
+       x="433.23"
+       y="159.57"
+       class="P Q R"
+       id="text35"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">$T20$</text>
+    <g
+       class="V"
+       id="g45">
+      <path
+         d="m0 1187h1.27"
+         marker-end="url(#B)"
+         stroke-linecap="butt"
+         transform="rotate(90 742.94 839.64)"
+         class="S"
+         id="path37" />
+      <g
+         class="T U O"
+         id="g43">
+        <circle
+           cx="5.669"
+           cy="1184.9"
+           r="5.669"
+           transform="matrix(1 0 0 -1 389.2 1346.9)"
+           class="W"
+           id="circle39" />
+        <circle
+           cx="5.669"
+           cy="1184.9"
+           r="5.669"
+           transform="matrix(-1 0 0 1 308.72 -1031)"
+           class="S"
+           id="circle41" />
+      </g>
+    </g>
+    <text
+       x="318.61"
+       y="159.37"
+       class="P Q R"
+       id="text47"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">T19</text>
+    <text
+       x="339.61"
+       y="159.37"
+       class="P Q R"
+       id="text49"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">$T19$</text>
+    <g
+       class="T U V O"
+       id="g55">
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(1 0 0 -1 297.07 1346.7)"
+         class="W"
+         id="circle51" />
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(-1 0 0 1 209.5 -1031)"
+         class="S"
+         id="circle53" />
+    </g>
+    <text
+       x="219.39"
+       y="159.37"
+       class="P Q R"
+       id="text57"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">T18</text>
+    <g
+       class="T U V O"
+       id="g63">
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(1 0 0 -1 197.86 1346.7)"
+         class="W"
+         id="circle59" />
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(-1 0 0 1 492.26 -1031)"
+         class="S"
+         id="circle61" />
+    </g>
+    <text
+       x="502.15"
+       y="159.37"
+       class="P Q R"
+       id="text65"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">T21</text>
+    <text
+       x="524.65"
+       y="159.37"
+       class="P Q R"
+       id="text67"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">$T21$</text>
+    <g
+       class="T U V O"
+       id="g73">
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(1 0 0 -1 480.61 1346.7)"
+         class="W"
+         id="circle69" />
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(-1 0 0 1 585.09 -1031)"
+         class="S"
+         id="circle71" />
+    </g>
+    <text
+       x="594.99"
+       y="159.37"
+       class="P Q R"
+       id="text75"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">T22</text>
+    <text
+       x="618.99"
+       y="159.37"
+       class="P Q R"
+       id="text77"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">$T22$</text>
+    <g
+       class="U V"
+       id="g87">
+      <circle
+         cx="5.669"
+         cy="1184.9"
+         r="5.669"
+         transform="matrix(1 0 0 -1 573.45 1346.7)"
+         class="O T W"
+         id="circle79" />
+      <g
+         class="S X"
+         id="g85">
+        <path
+           d="M395.58 105.5v21.87h91.01v20.97m-91.01-21.04h-92.53v20.98m276.37.02v-20.98H466.44"
+           id="path81" />
+        <path
+           d="M395.58 127.3H204.14v20.99"
+           id="path83" />
+      </g>
+    </g>
+    <text
+       x="240.39"
+       y="159.37"
+       class="P Q R"
+       id="text89"
+       style="-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.99999993px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">$T18$</text>
+  </g>
+</svg>
