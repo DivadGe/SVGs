@@ -50,7 +50,7 @@
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g91"
+     inkscape:current-layer="svg93"
      fit-margin-top="20"
      fit-margin-left="10"
      fit-margin-right="10"
@@ -100,28 +100,6 @@
   <g
      transform="translate(-91.831085,191.42993)"
      id="g91">
-    <g
-       class="U"
-       id="g15"
-       style="stroke-linejoin:round">
-      <use
-         href="#C"
-         class="T"
-         id="use11"
-         style="fill:#ffffff;stroke:#09366f;stroke-width:0.5"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-      <use
-         href="#C"
-         id="use13"
-         style="stroke:#ca0e2f;stroke-width:1.5"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </g>
     <text
        x="547.74268"
        y="-152.32953"
@@ -312,4 +290,11 @@
        height="100%"
        transform="matrix(0.17008728,0,0,0.21605766,631.25941,12.893632)" />
   </g>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.60188961;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect10532"
+     width="100%"
+     height="96"
+     x="3.8932467"
+     y="4.105361" />
 </svg>
