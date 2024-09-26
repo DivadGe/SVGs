@@ -42,7 +42,7 @@
    fit-margin-bottom="0"
    width="18.47427in"
    inkscape:zoom="1.1893674"
-   inkscape:cx="367.23045"
+   inkscape:cx="328.13404"
    inkscape:cy="53.313961"
    inkscape:window-x="1912"
    inkscape:window-y="-8"
@@ -446,93 +446,12 @@
    height="52.993"
    id="mfid2" />
 					</clipPath>
-					<g
-   clip-path="url(#mfid1)"
-   id="g100">
-						<mask
-   id="mfid3">
-							<rect
-   width="231"
-   height="53"
-   id="rect78"
-   x="0"
-   y="0"
-   style="fill:#ffffff;stroke:none" />
-						</mask>
-						<mask
-   id="mfid4"
-   fill="white"
-   stroke="none">
-							<g
-   id="g85">
-								<g
-   mask="url(#mfid3)"
-   id="g83">
-									<use
-   xlink:href="#mfid2"
-   id="use81"
-   x="0"
-   y="0"
-   width="100%"
-   height="100%" />
-								</g>
-							</g>
-						</mask>
-						<defs
-   id="defs89"><g
-   mask="url(#mfid4)"
-   id="g98">
-							<g
-   transform="matrix(1.3123e-4,0,0,1.3123e-4,0,0)"
-   id="g96">
-								<clipPath
-   id="mfid6">
-									<rect
-   x="-0.5"
-   y="-0.5"
-   width="231"
-   height="53"
-   id="rect91" />
-								</clipPath>
-								<use
-   xlink:href="#mfid5"
-   clip-path="url(#mfid6)"
-   transform="matrix(7620,0,0,7620,3810,3810)"
-   id="use94"
-   x="0"
-   y="0"
-   width="100%"
-   height="100%" />
-							</g>
-						</g>
-					</g>
+					
 				</svg>
 			</switch>
-			<rect
-   v:rectContext="foreign"
-   x="0"
-   y="1163.71"
-   width="117.298"
-   height="26.844101"
-   class="st13"
-   id="rect106"
-   style="fill:none;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
+			
 		</g>
-		<g
-   id="shape1209-32"
-   v:mID="1209"
-   v:groupContext="shape"
-   transform="matrix(-1,0,0,1,400.606,-1030.961)">
-			<title
-   id="title109">Sheet.1209</title>
-			<circle
-   cx="5.6692901"
-   cy="1184.88"
-   class="st6"
-   id="ellipse111"
-   r="5.6692901"
-   style="fill:#ffffff;fill-opacity:0;stroke:#c00000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round" />
-		</g>
+		
 		<g
    id="shape1210-34"
    v:mID="1210"
