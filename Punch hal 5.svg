@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="873.6"
@@ -45,9 +46,9 @@
      inkscape:window-height="1017"
      id="namedview95"
      showgrid="false"
-     inkscape:zoom="6.5384616"
-     inkscape:cx="391.7122"
-     inkscape:cy="116.21592"
+     inkscape:zoom="1.1558476"
+     inkscape:cx="292.52306"
+     inkscape:cy="-12.985137"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -77,40 +78,58 @@
     <path
        id="C"
        d="M64.153-22.2h651.97v70.866H64.153z" />
+    <symbol
+       id="Merge">
+      <title
+         id="title6554">Merge</title>
+      <desc
+         id="desc6556">Combine two or more sets of items into one set. (ISO)</desc>
+      <path
+         d="m 35,35 80,0 -40,70 z"
+         style="stroke-width:2"
+         id="path6558" />
+    </symbol>
   </defs>
   <g
-     transform="translate(-61.903 25.481)"
+     transform="translate(-61.903,25.481)"
      id="g91">
     <g
        class="U"
-       id="g15">
+       id="g15"
+       style="stroke-linejoin:round">
       <use
          href="#C"
-         stroke="#09366f"
-         stroke-width=".5"
          class="T"
-         id="use11" />
+         id="use11"
+         style="fill:#ffffff;stroke:#09366f;stroke-width:0.5"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
       <use
          href="#C"
-         stroke="#ca0e2f"
-         stroke-width="1.5"
-         id="use13" />
+         id="use13"
+         style="stroke:#ca0e2f;stroke-width:1.5"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </g>
     <text
        x="279"
        y="1149.72"
-       fill="#09366f"
-       font-family="Arial Black"
        font-size="1.5em"
-       transform="translate(64.153 -1141.9)"
-       id="text19">Stellantis<tspan
-   x="300.48"
+       transform="translate(64.153,-1141.9)"
+       id="text19"
+       style="font-size:18px;font-family:'Arial Black';fill:#09366f">Stellantis<tspan
+   x="300.48001"
    dy="1.2em"
    font-size="1em"
-   id="tspan17">Hal 5</tspan>
+   id="tspan17"
+   style="font-size:18px">Hal 5</tspan>
 </text>
     <circle
-       cx="-395.17099"
+       cx="-395.57245"
        cy="154.10002"
        r="5.6690001"
        transform="scale(-1,1)"
@@ -118,11 +137,11 @@
        id="circle21"
        style="fill:#ffffff;fill-opacity:0;stroke:#c00000;stroke-width:2.16000009;stroke-linejoin:round" />
     <path
-       d="m 395.50121,109.99482 -0.002,37.90799"
+       d="m 395.49252,96.687303 -0.001,51.410437"
        class="X"
        id="path23"
        inkscape:connector-curvature="0"
-       style="stroke:#c00000;stroke-width:2.63037658;stroke-linecap:round;stroke-linejoin:round" />
+       style="stroke:#c00000;stroke-width:2.57783151;stroke-linecap:round;stroke-linejoin:round" />
     <circle
        style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:2.16000009;stroke-linejoin:round"
        id="circle27"
@@ -130,12 +149,13 @@
        transform="scale(1,-1)"
        r="5.6690001"
        cy="-162.09998"
-       cx="395.099" />
+       cx="395.50046" />
     <text
-       x="368.42"
-       y="92.17"
+       x="368.42001"
+       y="92.169998"
        class="P Q R"
-       id="text31">Inkoop &amp; Hal E</text>
+       id="text31"
+       style="font-size:7.99996805px;font-family:Arial;fill:#000000">Inkoop &amp; Hal E</text>
     <text
        x="383.73001"
        y="183.57001"
@@ -148,12 +168,6 @@
        class="P Q R"
        id="text35"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">$T20$</text>
-    <path
-       style="stroke:#c00000;stroke-width:2.16000009;stroke-linecap:butt;marker-end:url(#B)"
-       inkscape:connector-curvature="0"
-       id="path37"
-       class="S"
-       d="m 395.58,96.7 v 1.27" />
     <g
        style="fill:#ffffff;fill-opacity:0;stroke-width:2.16000009;stroke-linejoin:round"
        id="g43"
@@ -282,5 +296,14 @@
        class="P Q R"
        id="text89"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">$T18$</text>
+    <use
+       id="use10474"
+       style="fill:#c00000;stroke:#c00000"
+       xlink:href="#Merge"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.09248425,0,0,0.11748045,388.56489,97.659373)" />
   </g>
 </svg>
