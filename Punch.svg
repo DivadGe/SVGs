@@ -4226,13 +4226,14 @@
 			<path d="M0 668.98 L0 731.06 L-232.39 731.06 L-232.39 668.98" class="st7"/>
 			<rect v:rectContext="textBkgnd" x="-194.446" y="726.255" width="52.984" height="9.59985" class="st15"/>
 			<text x="-194.45" y="733.46" class="st10" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>HAL 2 – HAL1&#38;3</text>		</g>
-		<g id="shape2628-307" v:mID="2628" v:groupContext="shape" transform="translate(499.336,-490.501)">
-			<title>Sheet.2628</title>
-			<desc>CABINE HAL B</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="126.058" cy="591.863" width="252.12" height="140.065"/>
-			<rect x="0" y="521.83" width="252.117" height="140.065" class="st3"/>
-			<text x="92.1" y="536.63" class="st4" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>CABINE HAL B</text>		</g>
+		<a href="https://monitoringportal.indnorth.equans.be/#/building/Hal_B/6295">
+			<g id="shape2628-307" v:mID="2628" v:groupContext="shape" transform="translate(499.336,-490.501)">
+				<title>Sheet.2628</title>
+				<desc>CABINE HAL B</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="126.058" cy="591.863" width="252.12" height="140.065"/>
+				<rect x="0" y="521.83" width="252.117" height="140.065" class="st3"/>
+				<text x="92.1" y="536.63" class="st4" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>CABINE HAL B</text>		</g></a>
 		<g id="group2629-310" transform="translate(602.633,-515.654)" v:mID="2629" v:groupContext="group">
 			<title>Sheet.2629</title>
 			<g id="group2630-311" transform="translate(0,-38.5959)" v:mID="2630" v:groupContext="group">
