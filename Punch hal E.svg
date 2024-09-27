@@ -65,12 +65,12 @@
 		<svg:flowPara id="flowPara10592">NCNvh</svg:flowPara>
 	</svg:flowRoot>
 	<a href = "">
-		<svg:g id="g10603" transform="translate(-5.0470587,1.8352941)">
+		<g id="g10603" transform="translate(-5.0470587,1.8352941)">
 			<svg:text id="text10596" y="276.18036" x="859.83527" style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75" xml:space="preserve">
 				<svg:tspan style="stroke-width:0.75" y="276.18036" x="859.83527" id="tspan10594" sodipodi:role="line">HAL NVH</svg:tspan>
 			</svg:text>
 			<svg:rect y="244.06271" x="844.23529" height="45.882355" width="164.71764" id="rect10598" style="opacity:1;fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"/>
-		</svg:g>
+		</g>
 	</a>
 	<a href = "">
 		<svg:g transform="translate(-732.54706,1.8352941)" id="g10622">
