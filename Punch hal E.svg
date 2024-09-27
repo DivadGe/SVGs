@@ -237,7 +237,7 @@
 		       y="278.01566"
 		       style="stroke-width:0.75">HAL NVH</tspan>
 	</text>
-	<a href="https://monitoringportal.indnorth.equans.be/#/building/NVH/6295"><rect style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+	<a href="https://monitoringportal.indnorth.equans.be/#/building/NVH/6295"><rect style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;pointer-events:bounding-box"
 	      id="rect10598"
 	      width="164.71764"
 	      height="45.882355"
@@ -254,7 +254,7 @@
 		       id="tspan9425"
 		       sodipodi:role="line">HAL R&amp;D2</tspan>
 	</text>
-	<a href="https://monitoringportal.indnorth.equans.be/#/building/Inkoop/6295"><rect style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+	<a href="https://monitoringportal.indnorth.equans.be/#/building/Inkoop/6295"><rect style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;pointer-events:bounding-box"
 		  y="245.89801"
 	      x="111.68823"
 	      height="45.882355"
