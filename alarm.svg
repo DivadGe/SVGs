@@ -10,6 +10,7 @@
   <circle id="greenCircle" cx="100" cy="100" r="50" fill="green" />
   <circle id="yellowCircle" cx="100" cy="100" r="50" fill="yellow" fill-opacity="$Warning$" />
   <circle id="redCircle" cx="100" cy="100" r="50" fill="red" fill-opacity="$Alarm$" />
+   <circle id="greyCircle" cx="100" cy="100" r="50" fill="grey" fill-opacity="$Offline$" />
 
   <!-- Text elements with variables -->
   <!--text id="firstVar" x="10" y="20" visibility="hidden">$Warning$</text>
