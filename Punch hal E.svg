@@ -1,263 +1,306 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:cc="http://creativecommons.org/ns#"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-     width="1435.9291"
-     height="540.14636"
-     font-size="12"
-     stroke-miterlimit="3"
-     viewBox="0 0 1076.9468 405.10976"
-     overflow="visible"
-     version="1.1"
-     id="svg93"
-     sodipodi:docname="Punch hal E.svg"
-     inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">
-	<metadata id="metadata97">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
-	<sodipodi:namedview pagecolor="#ffffff"
-	                    bordercolor="#666666"
-	                    borderopacity="1"
-	                    objecttolerance="10"
-	                    gridtolerance="10"
-	                    guidetolerance="10"
-	                    inkscape:pageopacity="0"
-	                    inkscape:pageshadow="2"
-	                    inkscape:window-width="1920"
-	                    inkscape:window-height="1017"
-	                    id="namedview95"
-	                    showgrid="false"
-	                    inkscape:zoom="0.8173077"
-	                    inkscape:cx="732.48332"
-	                    inkscape:cy="256.02448"
-	                    inkscape:window-x="1912"
-	                    inkscape:window-y="-8"
-	                    inkscape:window-maximized="1"
-	                    inkscape:current-layer="svg93"
-	                    fit-margin-top="20"
-	                    fit-margin-left="10"
-	                    fit-margin-right="10"
-	                    fit-margin-bottom="20"/>
-	<style id="style2"><![CDATA[.O{fill-opacity:0}.P{fill:#000}.Q{font-family:Arial}.R{font-size:0.666664em}.S{stroke:#c00000}.T{fill:#fff}.U{stroke-linejoin:round}.V{stroke-width:2.16}.W{stroke:red}.X{stroke-linecap:round}]]></style>
-	<defs id="defs9">
-		<path d="M 2,1 0,0 2,-1 v 2"
-		      id="A"
-		      inkscape:connector-curvature="0"/>
-		<marker id="B"
-		        overflow="visible"
-		        orient="auto"
-		        refX="-4.3333335"
-		        class="S"
-		        style="overflow:visible;fill:#c00000;fill-opacity:1;stroke:#c00000">
-			<use transform="scale(-2.1667)"
-			     href="#A"
-			     id="use5"
-			     style="stroke-width:0.46200001;stroke-opacity:1"
-			     x="0"
-			     y="0"
-			     width="100%"
-			     height="100%"/>
-		</marker>
-		<path id="C"
-		      d="m 64.153,-22.2 h 651.97 V 48.666 H 64.153 Z"
-		      inkscape:connector-curvature="0"/>
-		<symbol id="Merge">
-			<title id="title6554">Merge</title>
-			<desc id="desc6556">Combine two or more sets of items into one set. (ISO)</desc>
-			<path d="m 35,35 h 80 l -40,70 z"
-			      style="stroke-width:2"
-			      id="path6558"
-			      inkscape:connector-curvature="0"/>
-		</symbol>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1435.9291"
+   height="540.14636"
+   font-size="12"
+   stroke-miterlimit="3"
+   viewBox="0 0 1076.9468 405.10976"
+   overflow="visible"
+   version="1.1"
+   id="svg93"
+   sodipodi:docname="Punch hal E (1).svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">
+  <metadata
+     id="metadata97">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview95"
+     showgrid="false"
+     inkscape:zoom="0.8173077"
+     inkscape:cx="649.41172"
+     inkscape:cy="205.34451"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg93"
+     fit-margin-top="20"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="20" />
+  <style
+     id="style2"><![CDATA[.O{fill-opacity:0}.P{fill:#000}.Q{font-family:Arial}.R{font-size:0.666664em}.S{stroke:#c00000}.T{fill:#fff}.U{stroke-linejoin:round}.V{stroke-width:2.16}.W{stroke:red}.X{stroke-linecap:round}]]></style>
+  <defs
+     id="defs9"><path
+   d="M 2,1 0,0 2,-1 v 2"
+   id="A"
+   inkscape:connector-curvature="0" />
+<marker
+   id="B"
+   overflow="visible"
+   orient="auto"
+   refX="-4.3333335"
+   class="S"
+   style="overflow:visible;fill:#c00000;fill-opacity:1;stroke:#c00000">
+  <use
+     transform="scale(-2.1667)"
+     href="#A"
+     id="use5"
+     style="stroke-width:0.46200001;stroke-opacity:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+</marker>
+<path
+   id="C"
+   d="m 64.153,-22.2 h 651.97 V 48.666 H 64.153 Z"
+   inkscape:connector-curvature="0" />
+<symbol
+   id="Merge">
+  <title
+     id="title6554">Merge</title>
+  <desc
+     id="desc6556">Combine two or more sets of items into one set. (ISO)</desc>
+  <path
+     d="m 35,35 h 80 l -40,70 z"
+     style="stroke-width:2"
+     id="path6558"
+     inkscape:connector-curvature="0" />
+</symbol>
+
 
      /&gt;
 	</defs>
-	<text style="font-size:33.10370255px;font-family:'Arial Black';fill:#09366f;stroke-width:1.83909464"
-	      id="text19"
-	      font-size="1.5em"
-	      y="39.100403"
-	      x="455.91159">Stellantis<tspan style="font-size:33.10370255px;stroke-width:1.83909464"
-		       id="tspan17"
-		       font-size="1em"
-		       dy="39.724445"
-		       x="495.41531">Hal E</tspan>
-	</text>
-	<circle style="fill:#ffffff;fill-opacity:0;stroke:#c00000;stroke-width:3.97244453;stroke-linejoin:round"
-	        id="circle21"
-	        class="O T"
-	        transform="scale(-1,1)"
-	        r="10.425827"
-	        cy="308.12326"
-	        cx="-680.78925"/>
-	<circle cx="680.65686"
-	        cy="-322.83591"
-	        r="10.425827"
-	        transform="scale(1,-1)"
-	        class="O T W"
-	        id="circle27"
-	        style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:3.97244453;stroke-linejoin:round"/>
-	<text style="font-size:14.71269798px;font-family:Arial;fill:#000000;stroke-width:1.83909464"
-	      id="text31"
-	      class="P Q R"
-	      y="191.22809"
-	      x="502.37997">Inkoop &amp; Hal 5</text>
-	<text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
-	      id="text33"
-	      class="P Q R"
-	      y="362.32135"
-	      x="659.00989">T13</text>
-	<text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
-	      id="text35"
-	      class="P Q R"
-	      y="387.14911"
-	      x="648.21667">$T13$</text>
-	<g transform="matrix(1.8390946,0,0,1.8390946,-122.45501,25.77351)"
-	   class="T U O"
-	   id="g43"
-	   style="fill:#ffffff;fill-opacity:0;stroke-width:2.16000009;stroke-linejoin:round">
-		<circle cx="5.6690001"
-		        cy="1184.9"
-		        transform="matrix(-1,0,0,1,308.72,-1031)"
-		        class="S"
-		        id="circle41"
-		        style="stroke:#c00000"
-		        r="5.6690001"/>
-	</g>
-	<text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
-	      id="text47"
-	      class="P Q R"
-	      y="363.00827"
-	      x="413.84332">T11</text>
-	<text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
-	      id="text49"
-	      class="P Q R"
-	      y="387.83606"
-	      x="400.29147">$T11$</text>
-	<circle cx="434.31067"
-	        cy="-323.33896"
-	        r="10.425827"
-	        transform="scale(1,-1)"
-	        class="W"
-	        id="circle51"
-	        style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:3.97244453;stroke-linejoin:round"/>
-	<use transform="matrix(0.17008728,0,0,0.21605766,538.45501,200.12616)"
-	     height="100%"
-	     width="100%"
-	     y="0"
-	     x="0"
-	     xlink:href="#Merge"
-	     style="fill:#c00000;stroke:#c00000"
-	     id="use10474"/>
-	<rect style="opacity:1;fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.60188961;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-	      id="rect10532"
-	      width="100%"
-	      height="96"
-	      x="0.89324665"
-	      y="2.605361"/>
-	<g style="fill:#ffffff;fill-opacity:0;stroke-width:2.16000009;stroke-linejoin:round"
-	   id="g10560"
-	   class="T U O"
-	   transform="matrix(1.8390946,0,0,1.8390946,-6.95501,25.77351)">
-		<circle r="5.6690001"
-		        style="stroke:#c00000"
-		        id="circle10558"
-		        class="S"
-		        transform="matrix(-1,0,0,1,308.72,-1031)"
-		        cy="1184.9"
-		        cx="5.6690001"/>
-	</g>
-	<text x="529.34332"
-	      y="363.00827"
-	      class="P Q R"
-	      id="text10562"
-	      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464">T12</text>
-	<text x="515.79144"
-	      y="387.83606"
-	      class="P Q R"
-	      id="text10564"
-	      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464">$T12$</text>
-	<circle style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:3.97244453;stroke-linejoin:round"
-	        id="circle10566"
-	        class="W"
-	        transform="scale(1,-1)"
-	        r="10.425827"
-	        cy="-323.33896"
-	        cx="549.81067"/>
-	<g id="g10584">
-		<g id="g10614">
-			<g id="g10574"
-			   style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1">
-				<g transform="translate(-0.64887444,0.97331166)"
-				   style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
-				   id="g10554">
-					<path style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
-					      d="m 435.39475,298.04548 v -29.84822 h 246.24786 v 29.52379"
-					      id="path10548"
-					      inkscape:connector-curvature="0"/>
-					<path style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
-					      d="M 551.86772,268.84614 V 201.03876"
-					      id="path10550"
-					      inkscape:connector-curvature="0"/>
-				</g>
-				<path inkscape:connector-curvature="0"
-				      id="path10568"
-				      d="m 551.21885,269.81946 v 29.30208"
-				      style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"/>
-			</g>
-			<path style="fill:none;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
-			      d="m 680.99374,269.17057 c 159.57092,0 159.57092,0 159.57092,0"
-			      id="path10576"
-			      inkscape:connector-curvature="0"/>
-			<path inkscape:connector-curvature="0"
-			      id="path10605"
-			      d="m 275.99374,269.17057 c 159.57092,0 159.57092,0 159.57092,0"
-			      style="fill:none;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"/>
-		</g>
-	</g>
-	<text xml:space="preserve"
-	      style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-	      x="853.28821"
-	      y="278.01566"
-	      id="text10596">
-		<tspan sodipodi:role="line"
-		       id="tspan10594"
-		       x="853.28821"
-		       y="278.01566"
-		       style="stroke-width:0.75">HAL NVH</tspan>
-	</text>
-	<a href="https://monitoringportal.indnorth.equans.be/#/building/NVH/6295"><rect style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;pointer-events:bounding-box"
-	      id="rect10598"
-	      width="164.71764"
-	      height="45.882355"
-	      x="839.18823"
-	      y="245.89801"/></a>
-	<text id="text9427"
-	      y="278.01566"
-	      x="116.78821"
-	      style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-	      xml:space="preserve">
-		<tspan style="stroke-width:0.75"
-		       y="278.01566"
-		       x="116.78821"
-		       id="tspan9425"
-		       sodipodi:role="line">HAL R&amp;D2</tspan>
-	</text>
-	<a href="https://monitoringportal.indnorth.equans.be/#/building/Inkoop/6295"><rect style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;pointer-events:bounding-box"
-		  y="245.89801"
-	      x="111.68823"
-	      height="45.882355"
-	      width="164.71764"
-	      id="rect9429"/></a>
+  <text
+     style="font-size:33.10370255px;font-family:'Arial Black';fill:#09366f;stroke-width:1.83909464"
+     id="text19"
+     font-size="1.5em"
+     y="39.100403"
+     x="455.91159">Stellantis<tspan
+   style="font-size:33.10370255px;stroke-width:1.83909464"
+   id="tspan17"
+   font-size="1em"
+   dy="39.724445"
+   x="495.41531">Hal E</tspan>
+</text>
+  <circle
+     style="fill:#ffffff;fill-opacity:0;stroke:#c00000;stroke-width:3.97244453;stroke-linejoin:round"
+     id="circle21"
+     class="O T"
+     transform="scale(-1,1)"
+     r="10.425827"
+     cy="308.12326"
+     cx="-680.78925" />
+  <circle
+     cx="680.65686"
+     cy="-322.83591"
+     r="10.425827"
+     transform="scale(1,-1)"
+     class="O T W"
+     id="circle27"
+     style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:3.97244453;stroke-linejoin:round" />
+  <text
+     style="font-size:14.71269798px;font-family:Arial;fill:#000000;stroke-width:1.83909464"
+     id="text31"
+     class="P Q R"
+     y="180.72809"
+     x="487.37997">Inkoop &amp; Hal 5</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
+     id="text33"
+     class="P Q R"
+     y="362.32135"
+     x="659.00989">T13</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
+     id="text35"
+     class="P Q R"
+     y="387.14911"
+     x="637.71667">$T13$</text>
+  <g
+     transform="matrix(1.8390946,0,0,1.8390946,-152.45501,25.77351)"
+     class="T U O"
+     id="g43"
+     style="fill:#ffffff;fill-opacity:0;stroke-width:2.16000009;stroke-linejoin:round">
+    <circle
+       cx="5.6690001"
+       cy="1184.9"
+       transform="matrix(-1,0,0,1,308.72,-1031)"
+       class="S"
+       id="circle41"
+       style="stroke:#c00000"
+       r="5.6690001" />
+  </g>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
+     id="text47"
+     class="P Q R"
+     y="363.00827"
+     x="383.84332">T11</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464"
+     id="text49"
+     class="P Q R"
+     y="387.83606"
+     x="359.79147">$T11$</text>
+  <circle
+     cx="404.31067"
+     cy="-323.33896"
+     r="10.425827"
+     transform="scale(1,-1)"
+     class="W"
+     id="circle51"
+     style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:3.97244453;stroke-linejoin:round" />
+  <use
+     transform="matrix(0.17008728,0,0,0.21605766,523.45501,189.62616)"
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     xlink:href="#Merge"
+     style="fill:#c00000;stroke:#c00000"
+     id="use10474" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.60188961;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect10532"
+     width="100%"
+     height="96"
+     x="0.89324665"
+     y="2.605361" />
+  <g
+     style="fill:#ffffff;fill-opacity:0;stroke-width:2.16000009;stroke-linejoin:round"
+     id="g10560"
+     class="T U O"
+     transform="matrix(1.8390946,0,0,1.8390946,-6.95501,25.77351)">
+    <circle
+       r="5.6690001"
+       style="stroke:#c00000"
+       id="circle10558"
+       class="S"
+       transform="scale(-1,1)"
+       cy="153.90002"
+       cx="-294.89487" />
+  </g>
+  <text
+     x="514.34332"
+     y="363.00827"
+     class="P Q R"
+     id="text10562"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464">T12</text>
+  <text
+     x="497.79144"
+     y="387.83606"
+     class="P Q R"
+     id="text10564"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.06913567px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.83909464">$T12$</text>
+  <circle
+     style="fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:3.97244453;stroke-linejoin:round"
+     id="circle10566"
+     class="W"
+     transform="scale(1,-1)"
+     r="10.425827"
+     cy="-323.33896"
+     cx="534.81067" />
+  <g
+     id="g10554"
+     style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(1.1164078,0,0,1,-79.997399,0.97331166)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path10548"
+       d="m 435.39475,298.04548 v -29.84822 h 246.24786 v 29.52379"
+       style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10550"
+       d="M 551.86772,268.84614 V 201.03876"
+       style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+     d="m 536.21885,269.81946 v 29.30208"
+     id="path10568"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+     d="m 680.99374,269.17057 c 159.57092,0 159.57092,0 159.57092,0"
+     id="path10576"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path10605"
+     d="m 275.99374,269.17057 c 159.57092,0 159.57092,0 159.57092,0"
+     style="fill:none;stroke:#c00000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="809.78821"
+     y="278.01566"
+     id="text10596">		 <tspan
+   sodipodi:role="line"
+   id="tspan10594"
+   x="809.78821"
+   y="278.01566"
+   style="stroke-width:0.75">HAL NVH</tspan>	</text>
+  <a
+     href="https://monitoringportal.indnorth.equans.be/#/building/NVH/6295"
+     id="a45">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;pointer-events:bounding-box"
+       id="rect10598"
+       width="164.71764"
+       height="45.882355"
+       x="839.18823"
+       y="245.89801" />
+  </a>
+  <text
+     id="text9427"
+     y="278.01566"
+     x="74.788208"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     xml:space="preserve">		 <tspan
+   style="stroke-width:0.75"
+   y="278.01566"
+   x="74.788208"
+   id="tspan9425"
+   sodipodi:role="line">HAL R&amp;D2</tspan>	</text>
+  <a
+     href="https://monitoringportal.indnorth.equans.be/#/building/Inkoop/6295"
+     id="a50">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#c00000;stroke-width:3.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;pointer-events:bounding-box"
+       y="245.89801"
+       x="111.68823"
+       height="45.882355"
+       width="164.71764"
+       id="rect9429" />
+  </a>
 </svg>
