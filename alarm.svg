@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns="http://www.w3.org/2000/svg"
-   width="200"
-   height="200"
+<svg height="320" width="200" xmlns="http://www.w3.org/2000/svg">
    version="1.1"
    id="svg9">
 
+  <circle fill="green" r="50" cy="100" cx="100" id="greenCircle"></circle>
+  <circle fill-opacity="$Warning$" fill="yellow" r="50" cy="100" cx="100" id="yellowCircle"></circle>
+  <circle fill-opacity="$Alarm$" fill="red" r="50" cy="100" cx="100" id="redCircle"></circle>
+  <circle fill-opacity="$Offline$" fill="grey" r="50" cy="100" cx="100" id="greyCircle"></circle>
 
-  <circle id="greenCircle" cx="100" cy="100" r="50" fill="green" />
-  <circle id="yellowCircle" cx="100" cy="100" r="50" fill="yellow" fill-opacity="$Warning$" />
-  <circle id="redCircle" cx="100" cy="100" r="50" fill="red" fill-opacity="$Alarm$" />
-  <circle id="greyCircle" cx="100" cy="100" r="50" fill="grey" fill-opacity="$Offline$" />
+  
+  <text fill="black" font-size="14" font-family="Arial" y="210" x="10">Legend:</text>
+  <rect fill="green" height="15" width="15" y="225" x="10"></rect>
+  <text fill="black" font-size="14" font-family="Arial" y="240" x="30">Green: Safe</text>
+  <rect fill="yellow" height="15" width="15" y="250" x="10"></rect>
+  <text fill="black" font-size="14" font-family="Arial" y="265" x="30">Yellow: Warning</text>
+  <rect fill="red" height="15" width="15" y="275" x="10"></rect>
+  <text fill="black" font-size="14" font-family="Arial" y="290" x="30">Red: Alarm</text>
+  <rect fill="grey" height="15" width="15" y="300" x="10"></rect>
+  <text fill="black" font-size="14" font-family="Arial" y="315" x="30">Grey: Offline</text>
 
-  <!-- Text elements with variables -->
-  <!--text id="firstVar" x="10" y="20" visibility="hidden">$Warning$</text>
-  <text id="secondVar" x="10" y="40" visibility="hidden">$Alarm$</text-->
 </svg>
