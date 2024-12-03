@@ -2,10 +2,10 @@
    version="1.1"
    id="svg9">
 
-  <circle fill="green" r="50" cy="100" cx="100" id="greenCircle"></circle>
-  <circle fill-opacity="$Warning$" fill="yellow" r="50" cy="100" cx="100" id="yellowCircle"></circle>
-  <circle fill-opacity="$Alarm$" fill="red" r="50" cy="100" cx="100" id="redCircle"></circle>
-  <circle fill-opacity="$Offline$" fill="grey" r="50" cy="100" cx="100" id="greyCircle"></circle>
+  <circle fill="green" r="75" cy="100" cx="100" id="greenCircle"></circle>
+  <circle fill-opacity="$Warning$" fill="yellow" r="75" cy="100" cx="100" id="yellowCircle"></circle>
+  <circle fill-opacity="$Alarm$" fill="red" r="75" cy="100" cx="100" id="redCircle"></circle>
+  <circle fill-opacity="$Offline$" fill="grey" r="75" cy="100" cx="100" id="greyCircle"></circle>
 
   
   <text fill="black" font-size="14" font-family="Arial" y="395" x="10">Legend:</text>
