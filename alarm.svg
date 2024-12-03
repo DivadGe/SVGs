@@ -16,6 +16,6 @@
   <circle fill="red" r="7.5" cy="465" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="470" x="30">Red: Alarm</text>
   <circle fill="grey" r="7.5" cy="490" cx="10"></circle>
-  <text fill="black" font-size="14" font-family="Arial" y="495" x="30">Grey: Offline</text>
+  <text fill="black" font-size="14" font-family="Arial" y="500" x="30">Grey: Offline</text>
 
 </svg>
