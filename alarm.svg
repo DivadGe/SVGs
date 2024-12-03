@@ -9,7 +9,7 @@
 
   
   <text fill="black" font-size="14" font-family="Arial" y="210" x="10">Legend:</text>
-  <circle fill="green" r="7.5" cy="240" cx="10"></circle>
+  <circle fill="green" r="7.5" cy="245" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="240" x="30">Green: Safe</text>
   <circle fill="yellow" r="7.5" cy="265" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="265" x="30">Yellow: Warning</text>
