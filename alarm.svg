@@ -9,13 +9,13 @@
 
   
   <text fill="black" font-size="14" font-family="Arial" y="210" x="10">Legend:</text>
-  <circle fill="green" r="7.5" cy="245" cx="10"></circle>
+  <circle fill="green" r="7.5" cy="235" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="240" x="30">Green: Safe</text>
-  <circle fill="yellow" r="7.5" cy="265" cx="10"></circle>
+  <circle fill="yellow" r="7.5" cy="260" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="265" x="30">Yellow: Warning</text>
-  <circle fill="red" r="7.5" cy="290" cx="10"></circle>
+  <circle fill="red" r="7.5" cy="285" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="290" x="30">Red: Alarm</text>
-  <circle fill="grey" r="7.5" cy="315" cx="10"></circle>
+  <circle fill="grey" r="7.5" cy="310" cx="10"></circle>
   <text fill="black" font-size="14" font-family="Arial" y="315" x="30">Grey: Offline</text>
 
 </svg>
